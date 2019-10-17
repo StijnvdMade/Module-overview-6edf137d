@@ -1,0 +1,134 @@
+.module {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  color: white;
+  line-height: 120px;
+  text-align: center;
+  background: #57be8e;
+  font-size: 40px;
+  margin-left: 47.25%;
+  position: relative;
+}
+
+.modulenotdone {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  line-height: 120px;
+  text-align: center;
+  background: white;
+  border: 6px solid #20c6d7;
+  font-size: 40px;
+  margin-left: 46.5%;
+  position: relative;
+}
+
+.modulenotdoneblack {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  line-height: 120px;
+  text-align: center;
+  background: white;
+  border: 6px solid #808080;
+  font-size: 40px;
+  margin-left: 46.5%;
+  position: relative;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+div.box {
+  margin-top: 60px;
+  border-radius: 20%;
+  background: #57be8e;
+  border: 1px solid;
+  width: 15%;
+  height: 10%;
+  margin-left: 43.5%;
+  color: white;
+  position: relative;
+}
+
+div.box p {
+  margin: 5%;
+  font-weight: bold;
+}
+
+div.boxnotdone {
+  margin-top: 60px;
+  border-radius: 20%;
+  background: #20c6d7;
+  border: 1px solid;
+  width: 15%;
+  height: 10%;
+  margin-left: 43.5%;
+  color: white;
+  position: relative;
+}
+
+div.boxnotdone p {
+  margin: 5%;
+  font-weight: bold;
+}
+
+div.boxnotdoneblack {
+  margin-top: 60px;
+  border-radius: 20%;
+  background: #808080;
+  border: 1px solid;
+  width: 15%;
+  height: 10%;
+  margin-left: 43.5%;
+  color: white;
+  position: relative;
+}
+
+div.boxnotdoneblack p {
+  margin: 5%;
+  font-weight: bold;
+}
+
+.linedone {
+	width: 3px;
+	height: 300px;
+	background: #ccebdc;
+	border: solid #ccebdc;
+	margin-left: 50.8%;
+	margin-top: -10%;
+	margin-bottom: -4%;
+}
+
+.linenotdone {
+	width: 3px;
+	height: 300px;
+	background: #bcedf2;
+	border: solid #bcedf2;
+	margin-left: 50.8%;
+	margin-top: -10%;
+	margin-bottom: -4%;
+}
+
+.linenotdoneblack {
+	width: 3px;
+	height: 300px;
+	background: #d6d6d6;
+	border: solid #d6d6d6;
+	margin-left: 50.8%;
+	margin-top: -10%;
+	margin-bottom: -4%;
+}
+
+.linenotdonelast {
+	width: 3px;
+	height: 130px;
+	background: #d6d6d6;
+	border: solid #d6d6d6;
+	margin-left: 50.8%;
+	margin-top: -10%;
+	margin-bottom: -4%;
+}
